@@ -1,0 +1,7 @@
+.slide{
+	display: block;
+	width: 1000px;
+	height: 700px;
+	border-left: 25px solid #eee;
+	color: #fff;
+}
